@@ -1,5 +1,5 @@
 {
-    "name": "T31-Setecteur-son",
+    "name": "T31-Detecteur-son",
     "description": "",
     "dependencies": {
         "core": "*",
